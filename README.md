@@ -5,7 +5,6 @@
 
 ![image](https://user-images.githubusercontent.com/94169174/200472430-58d8d6b4-b4ed-4683-950c-28ea04eb3928.png)
 
-A new Flutter project.
 
 ## Getting Started
 
